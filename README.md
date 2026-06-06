@@ -2,7 +2,7 @@
 
 Tbot is a Slack bot built with Node.js that brings useful commands directly into your Slack workspace.
 
-To demo it's functions you may join this slack workspace https://join.slack.com/t/tbotdemo/shared_invite/zt-402t52bgy-SUQOjpEt2zbLOLbSM_Agpw
+To demo it's functions you may join the Hackclub slack workspace https://slack.hackclub.com/ 
 
 ## Features
 
